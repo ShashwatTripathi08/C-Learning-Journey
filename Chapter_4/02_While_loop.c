@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main(){
+    int i = 0;
+    while(i<10){
+        printf("Happy Birthday to you! \n");
+        i = i + 1;
+
+    }
+
+
+    
+    return 0;
+}
